@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://letter.sevin.cn/"><img src="letter/favicon.ico" width="200" height="200" alt=""></a>
+  <a href="https://letter.sevin.cn/"><img src="https://raw.githubusercontent.com/itsevin/LoveLetter/main/favicon.ico" width="200" height="200" alt=""></a>
 </p>
 
 <div align="center">
