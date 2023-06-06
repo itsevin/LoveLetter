@@ -1,0 +1,32 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+body {
+	overflow: hidden;
+	background: linear-gradient(to bottom, #ff8080, #80b3ff);
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+img {
+	max-width: 100%;
+	max-height: auto;
+	margin-bottom: 10px;
+}
+
+.text {
+	font-size: 25px;
+	color: #fff;
+	font-family: "STFangsong", "Songti SC", serif;
+	text-align: center;
+}
