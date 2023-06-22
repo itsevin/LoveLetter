@@ -4,7 +4,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 }
 
 window.addEventListener('DOMContentLoaded', function () {
-  alert('请按 Fn + F11 进入全屏模式');
+  alert('请按 F11 或 Fn + F11 进入全屏模式');
 });
 
 let heart = document.querySelector('.heart');
@@ -16,6 +16,7 @@ heart.addEventListener('click', function () {
   let x = document.createElement("audio");
   x.setAttribute("src", "mp3/music.mp3");
   x.setAttribute("autoplay", "autoplay");
+  x.setAttribute("loop", "loop");
 
   // 打字效果
   fetch('letter.json')
@@ -45,7 +46,7 @@ heart.addEventListener('click', function () {
       // 在文字打印完毕后执行跳转
       setTimeout(() => {
         let link = document.createElement('a');
-        link.href = "https://sevin.cn/";
+        link.href = "https://blog.sevin.cn/posts/520/";
         link.target = "_blank";
         link.click();
       }, (str.length + 1) * 190 + 5000); // 将延时设置为文字打印完成后的时间
