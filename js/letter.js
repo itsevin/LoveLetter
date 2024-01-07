@@ -46,7 +46,7 @@ heart.addEventListener('click', function () {
       // 在文字打印完毕后执行跳转
       setTimeout(() => {
         let link = document.createElement('a');
-        link.href = "https://blog.sevin.cn/posts/520/";
+        link.href = "http://gd.people.com.cn/n2/2023/1002/c123932-40592117.html";
         link.target = "_blank";
         link.click();
       }, (str.length + 1) * 190 + 5000); // 将延时设置为文字打印完成后的时间
