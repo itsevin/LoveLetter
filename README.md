@@ -32,13 +32,13 @@
 
 > 因为手机显示效果很差
 
-![](https://raw.githubusercontent.com/itsevin/LoveLetter/main/img/mobile.jpg)
+<img src="https://raw.githubusercontent.com/itsevin/LoveLetter/main/img/mobile.jpg" height="250" />
 
 ### 电脑页面
 
 首先会显示该页面并提示进入全屏以达到最佳显示效果
 
-![](https://raw.githubusercontent.com/itsevin/LoveLetter/main/img/1.png)
+[](https://raw.githubusercontent.com/itsevin/LoveLetter/main/img/1.png)
 
 鼠标放到信封上任意地方时信会展开，并出现跳动的爱心
 
