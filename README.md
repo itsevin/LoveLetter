@@ -32,7 +32,7 @@
 
 > 因为手机显示效果很差
 
-<img src="https://raw.githubusercontent.com/itsevin/LoveLetter/main/img/mobile.jpg" height="250" />
+<img src="https://raw.githubusercontent.com/itsevin/LoveLetter/main/img/mobile.jpg" height="300" />
 
 ### 电脑页面
 
